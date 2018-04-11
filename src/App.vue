@@ -4,6 +4,7 @@
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div>
+    <mu-flat-button label="文字在后面" class="demo-flat-button" icon="android" primary/>
     <router-view/>
   </div>
 </template>
